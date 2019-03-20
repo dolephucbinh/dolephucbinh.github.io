@@ -1,0 +1,1 @@
+var _0xf5be=["%cProtected.\nSource: [CEH] -  25/05/2017!","font-size: 50px; color: #000000;","log","console","alert"];console[_0xf5be[2]](_0xf5be[0],_0xf5be[1]),window[_0xf5be[3]]=function(){window[_0xf5be[3]]=function(){return!1}},window[_0xf5be[4]]=function(){window[_0xf5be[4]]=function(){return!1}};
